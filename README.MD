@@ -112,7 +112,7 @@ This collection includes GitHub repositories, commercial APIs, websites offering
   - **[openfootball/leagues](https://github.com/openfootball/leagues)** Free open public domain football datasets for national and international football club leagues and cups from around the world
 
 - **[statsbomb/open-data](https://github.com/statsbomb/open-data)** StatsBomb open data for football analytics. ***!! Around 19 GB***
-- **[schochastics/football-data](https://github.com/schochastics/football-data)** This repository contains some datasets for football (soccer).
+- **[schochastics/football-data](https://github.com/schochastics/football-data)** contains results of ***1,237,935 football games in 207 top-tier*** domestic leagues and 20 international tournaments (UEFA EuroLeague/ChampionsLeague,etc.) from 1888-2023
 
 - **[llimllib/soccerdata](https://github.com/llimllib/soccerdata)** Soccer results and data. (The goal of this project is to be an up-to-date, open, easily machine-processible repository of soccer results.) *** Updated 10 years ago ***
 
@@ -122,25 +122,36 @@ This collection includes GitHub repositories, commercial APIs, websites offering
   - Transfermarkt 
   - Understat
 
-
-- **[jalapic/engsoccerdata (data-raw)](https://github.com/jalapic/engsoccerdata/tree/master/data-raw)** Raw soccer datasets focusing on English leagues. Nov 2022 update: All European league datasets [England,Scotland,Italy,Germany,France,Holland,Spain,Belgium,Greece,Turkey,Portugal]
+- **[jalapic/engsoccerdata (data-raw)](https://github.com/jalapic/engsoccerdata/tree/master/data-raw)** Raw soccer datasets focusing on English leagues. Nov 2022 update: All European league datasets:
+  - England
+  - Scotland
+  - Italy
+  - Germany
+  - France
+  - Holland
+  - Spain
+  - Belgium
+  - Greece
+  - Turkey
+  - Portugal
 
 - **[jfjelstul/worldcup](https://github.com/jfjelstul/worldcup)** By  Joshua C. Fjelstul, Ph.D. Covers all 22 men's tournaments (1930-2022) and all 8 women's tournaments (1991-2019)
 
-- **[rsssf](https://github.com/rsssf) / [rsssf/england](https://github.com/rsssf/england)**  
-  Mirror of Rec.Sport.Soccer Statistics Foundation data.
+- **[rsssf](https://github.com/rsssf)** Mirror of Rec.Sport.Soccer Statistics Foundation data.
+  - [rsssf/england](https://github.com/rsssf/england) - England (and Wales) 2010-2024
+  - [rsssf/brazil](https://github.com/rsssf/brazil) - Brazil (Brasil) 2010-2024
+  - [rsssf/espana](https://github.com/rsssf/espana) - España (Spain) 2010-2015
+  - [rsssf/deutschland](https://github.com/rsssf/deutschland) - España (Spain) 1963-2024
+  - [rsssf/austria](https://github.com/rsssf/austria) - Austria (Österreich) 2010-2015
+  
 
-- **[footballdata](https://github.com/footballdata) / [FootballData/Russia2018](https://github.com/FootballData/Russia2018)**  
-  Various repositories for historical and international tournament data.
+- **[footballdata](https://github.com/footballdata) / [FootballData/2018](https://github.com/FootballData/Russia2018)** Various repositories for historical and international tournament data.
 
-- **[gavinr/usa-soccer](https://github.com/gavinr/usa-soccer)**  
-  Maps and data of the USA soccer teams.
+- **[gavinr/usa-soccer](https://github.com/gavinr/usa-soccer)**  Maps and data of the USA soccer teams.
 
-- **[pssguy/epldata](https://github.com/pssguy/epldata)**  
-  English Premier League datasets (1992–2018).
+- **[pssguy/epldata](https://github.com/pssguy/epldata)** English Premier League datasets (1992–2018).
 
-- **[somdeep/Statball](https://github.com/somdeep/Statball)**  
-  Fbref and StatsBomb analyzer for top 5 European leagues.
+- **[somdeep/Statball](https://github.com/somdeep/Statball)**  Fbref and StatsBomb analyzer for top 5 European leagues.
 
 - **[martj42/international_results](https://github.com/martj42/international_results)** 
   - This dataset includes 47,917 results of international football matches starting from the very first official match in 1872 up to 2024
