@@ -53,7 +53,7 @@ This collection includes GitHub repositories, commercial APIs, websites offering
 - **[openfootball/football.json](https://github.com/openfootball/football.json)**  
   JSON-based dataset for multiple leagues and competitions.
 
-- ** [statsbomb/open-data](https://github.com/statsbomb/open-data) **
+- **[statsbomb/open-data](https://github.com/statsbomb/open-data)**
   StatsBomb open data for football analytics.
 
 - **[llimllib/soccerdata](https://github.com/llimllib/soccerdata)**  
@@ -86,7 +86,7 @@ This collection includes GitHub repositories, commercial APIs, websites offering
 - **[somdeep/Statball](https://github.com/somdeep/Statball)**  
   Fbref and StatsBomb analyzer for top 5 European leagues.
 
-- **[martj42/international_results](https://github.com/martj42/international_results) **  
+- **[martj42/international_results](https://github.com/martj42/international_results)**  
   This dataset includes 47,917 results of international football matches starting from the very first official match in 1872 up to 2024
 
 ---
