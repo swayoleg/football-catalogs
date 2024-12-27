@@ -9,14 +9,16 @@ This collection includes GitHub repositories, commercial APIs, websites offering
 
 ## 📂  Table of Contents
 
-1. [GitHub Datasets & Projects](#github-datasets--projects)  
-2. [Tools](#tools)  
-3. [API Websites](#api-websites)  
-4. [Commercial APIs](#commercial-apis)  
-5. [Website Sources](#website-sources)  
-6. [ESPN](#espn)  
-7. [Additional Websites](#additional-websites)  
-8. [Not checked websites/links](#not-checked)
+1. [📊GitHub Datasets & Projects](#github-datasets--projects)  
+2. [⚙️Tools](#tools)  
+3. [🌐API Websites](#api-websites)  
+4. [💵Commercial APIs](#commercial-apis)  
+5. [🌎Website Sources](#website-sources)  
+6. [📺ESPN](#espn)  
+7. [📜Additional Websites](#additional-websites)  
+8. [❓Not checked websites/links](#not-checked)
+9. [🤝Contributions](#contributions)
+10. [⚠️ License](#license)
 
 ---
 
@@ -70,6 +72,7 @@ This collection includes GitHub repositories, commercial APIs, websites offering
 
 ---
 
+<a name="tools"></a>
 ## ⚙️ Tools
 
 - **[transfermarkt-scraper](https://github.com/dcaribou/transfermarkt-scraper)**  
@@ -95,6 +98,8 @@ This collection includes GitHub repositories, commercial APIs, websites offering
 
 ---
 
+<a name="api-websites"></a>
+
 ## 🌐 API Websites
 
 - [football-data.org](https://www.football-data.org/documentation/api)  
@@ -104,6 +109,7 @@ This collection includes GitHub repositories, commercial APIs, websites offering
 
 ---
 
+<a name="commercial-apis"></a>
 ## 💵 Commercial ONLY APIs
 
 - **Fantasy Sport Net**  
@@ -139,6 +145,8 @@ This collection includes GitHub repositories, commercial APIs, websites offering
   - <https://www.openligadb.de/>
 
 ---
+
+<a name="website-sources"></a>
 
 ## 🌎 Website Sources
 
@@ -261,6 +269,8 @@ This collection includes GitHub repositories, commercial APIs, websites offering
 
 ---
 
+<a name="espn"></a>
+
 ## 📺  ESPN
 
 - <https://www.espn.com/soccer/>  
@@ -270,6 +280,8 @@ This collection includes GitHub repositories, commercial APIs, websites offering
 - <http://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/news>
 
 ---
+
+<a name="additional-websites"></a>
 
 ## 📜   Additional Websites
 
@@ -285,6 +297,8 @@ This collection includes GitHub repositories, commercial APIs, websites offering
 - <https://www.openligadb.de/>
 
 ---
+
+<a name="not-checked"></a>
 
 ## ❓ Not Checked / Junk Links
 
@@ -316,11 +330,15 @@ These URLs were not included in the previously documented catalog. Review, categ
 
 ---
 
+<a name="contributions"></a>
+
 ## 🤝 Contributions
 
 We welcome contributions! Please submit additional resources, datasets, or tools via pull requests or open an issue.
 
 ---
+
+<a name="license"></a>
 
 ## ⚠️ License
 
