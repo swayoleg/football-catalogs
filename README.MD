@@ -25,7 +25,7 @@ This collection includes GitHub repositories, commercial APIs, websites offering
 <a name="github-datasets--projects"></a>
 ## 📊 GitHub Datasets & Projects
 
-- ### **[footballcsv](https://github.com/footballcsv) / [footballcsv.github.io](https://footballcsv.github.io/)** -  CSV datasets.
+-  **[footballcsv](https://github.com/footballcsv) / [footballcsv.github.io](https://footballcsv.github.io/)** -  CSV datasets.
 
     - [footballcsv/espana](https://github.com/footballcsv/espana) - Spain
     - [footballcsv/england](https://github.com/footballcsv/england) -  CSV data for English leagues.
@@ -47,22 +47,70 @@ This collection includes GitHub repositories, commercial APIs, websites offering
 
 - **[openfootball](https://github.com/openfootball) / [openfootball.github.io](http://openfootball.github.io/)**
   - **[openfootball/awesome-football](https://github.com/openfootball/awesome-football)** Good collection of datasets and resources.
-  - **[openfootball/worldcup.json](https://github.com/openfootball/worldcup.json)** Free open public domain football data for the world cups in the JSON.
   - **[openfootball/players](https://github.com/openfootball/players)** Free open public domain football data (football.db) for players - goalkeepers (G/GK), defenders (D/DF), midfielders (M/MF), forwards (F/FW) - country by country and sorted by date of birth (dob).
-  - **[openfootball/copa-america.json](https://github.com/openfootball/copa-america.json)** Free open public domain football data in the JSON (JavaScript Object Notation) data interchange format. Tournaments include: Copa América 2021, Copa América 2024
   - **[openfootball/copa-america](https://github.com/openfootball/copa-america)** Free open public domain football data (football.db) for national teams in South America (e.g. Copa América)
-  - **[openfootball/euro.json](https://github.com/openfootball/euro.json)** Free open public domain football data in the JSON (JavaScript Object Notation) data interchange format. Tournaments include: European Football Championship ("Euro") 2020 (in 2021), European Football Championship ("Euro") 2024
-  - **[openfootball/euro](https://github.com/openfootball/euro)** A free open public domain football (soccer) database & schema for use in any (programming) language e.g. uses datasets in (structured) text using the football.txt format
-  - **[openfootball/worldcup](https://github.com/openfootball/worldcup)** A free open public domain football database & schema for use in any (programming) language e.g. uses datasets in (structured) text in the football.txt format.
+  - **[openfootball/copa-america.json](https://github.com/openfootball/copa-america.json)** Free open public domain football data in the JSON (JavaScript Object Notation) data interchange format. Tournaments include: Copa América 2021, Copa América 2024
+  - **[openfootball/euro](https://github.com/openfootball/euro)** Free open public domain football data for Euro 2008, Euro 2012, Euro 2016, Euro 2020 (2021), Euro 2024, etc.
+  - **[openfootball/worldcup](https://github.com/openfootball/worldcup)** Free open public domain football data for the World Cup (e.g. Qatar 2022, Russia 2018, Brazil 2014, etc.) and the World Cup Quali(fiers).
+  - **[openfootball/euro.json](https://github.com/openfootball/euro.json)** European Football Championship ("Euro") 2020 (in 2021), European Football Championship ("Euro") 2024
+  - **[openfootball/worldcup.json](https://github.com/openfootball/worldcup.json)** Free open public domain football data for the world cups in the JSON.
   - **[openfootball/v0-format](https://github.com/openfootball/v0-format)** Misc. match schedules and more in the historic / classic v0 football.txt (prototype) format variants
+  - **[openfootball/africa](https://github.com/openfootball/africa)** Free open public domain football datasets include: Egypt - Premiership, Morocco - Botola Pro 1  and others
+  - **[openfootball/austria](https://github.com/openfootball/austria)** Free open public domain football data for Austria (Österreich). National football club leagues and cup
+  - **[openfootball/mexico](https://github.com/openfootball/mexico)** Free open public domain football data (football.db) for Mexico / North America
+  - **[openfootball/deutschland](https://github.com/openfootball/deutschland)** Deutschland (Germany) - Deutsche Bundesliga, DFB Pokal
+  - **[openfootball/italy](https://github.com/openfootball/italy)** Free open public domain football data for Italy / Europe. Events include - Serie A	20 Clubs
+  - **[openfootball/espana](https://github.com/openfootball/espana)** Free open public domain football data for España (Spain) / Europe. Events include:
+    - I	 Primera División / La Liga	20 Clubs 
+    - II Segunda División / Liga Adelante	22 Clubs
+  - **[openfootball/england](https://github.com/openfootball/england)** Free open public domain football data for England (and Wales). National football club leagues include:
+    - English Premier League	20 Clubs 
+    - II	English Championship	24 Clubs 
+    - III	English League One	24 Clubs 
+    - IV	English League Two	24 Clubs
+  - **[openfootball/champions-league](https://github.com/openfootball/champions-league)** Free open public domain football datasets for Europe. Intern'l football club tournaments include:
+    - UEFA Champions League 
+    - UEFA Europa League
+  - **[openfootball/world](https://github.com/openfootball/world)** Free open public domain football datasets include: 
+    - North America: 
+      - United States & Canada - Major League Soccer (MLS), 
+    - Asia: 
+      - China - Super League
+      - Japan - J. League
+    - Pacific: 
+      - Australia - A-League
+  - **[openfootball/south-america](https://github.com/openfootball/south-america)** Free open public domain football datasets include: 
+    - Argentina - Primera Division 
+    - Brazil - Brasileiro Série A
+  - **[openfootball/football.json](https://github.com/openfootball/football.json)** JSON-based dataset for multiple leagues and competitions. Leagues include: 
+    - English Premier League, 
+    - Championship, 
+    - League One, 
+    - League Two, 
+    - Deutsche Bundesliga, 
+    - 2 Bundesliga, 3 Liga
+    - Spanish Primera División ("La Liga"), 
+    - Segunda División 
+    - Italian Serie A, Serie B 
+    - French Ligue 1, Ligue 2
+  - **[openfootball/europe](https://github.com/openfootball/europe)** Free open public domain football datasets include:
+    - Belgium - First Division A 
+    - Netherlands - Eredivisie
+    - Switzerland (Schweiz • Suisse • Svizzera • Svizra) incl. Liechtenstein - Super League, Challenge League
+    - Hungary - NB I
+    - Czech Republic - First League
+    - Finland - Veikkausliiga
+    - France - Ligue 1, Ligue 2
+    - Iceland - Urvalsdeild
+    - Ireland - Premier Division
+    - Scotland - Premiership
+    - Portugal - Primeira Liga
+    - Greece - Super League
+    - Turkey - Süper Lig, 1. Lig
+  - **[openfootball/clubs](https://github.com/openfootball/clubs)** Free open public domain football data for the world's football clubs (& stadiums)
+  - **[openfootball/leagues](https://github.com/openfootball/leagues)** Free open public domain football datasets for national and international football club leagues and cups from around the world
 
-
-
-- **[openfootball/football.json](https://github.com/openfootball/football.json)**  
-  JSON-based dataset for multiple leagues and competitions.
-
-- **[statsbomb/open-data](https://github.com/statsbomb/open-data)**
-  StatsBomb open data for football analytics.
+- **[statsbomb/open-data](https://github.com/statsbomb/open-data)** StatsBomb open data for football analytics. ***!! Around 19 GB***
 
 - **[llimllib/soccerdata](https://github.com/llimllib/soccerdata)**  
   Soccer results and data.
@@ -120,11 +168,12 @@ This collection includes GitHub repositories, commercial APIs, websites offering
 - **[football-graphs](https://github.com/rodmoioliveira/football-graphs)**  
   [Grafos da Bola](https://grafos-da-bola.netlify.app/) – Interactive web app for soccer passing networks.
 
-- **[football.db](https://github.com/yorobot/football.db)**  
-  DB builder in Ruby.
+- **[football.db](https://github.com/yorobot/football.db)** DB builder in Ruby.
 
-- **[openfootball/quick-starter](https://github.com/openfootball/quick-starter)**  
-  Soft to convert [openfootball](https://github.com/openfootball) data to db.  It is a command line tool that lets you read datasets (e.g. leagues, clubs, match schedules, etc.) in plain text into your SQL database of choice
+- Openfootball
+  - **[openfootball/quick-starter](https://github.com/openfootball/quick-starter)**  
+    Soft to convert [openfootball](https://github.com/openfootball) data to db.  It is a command line tool that lets you read datasets (e.g. leagues, clubs, match schedules, etc.) in plain text into your SQL database of choice
+  - **[openfootball/league-starter](https://github.com/openfootball/league-starter)** - Create your own datasets in plain text for your own league(s) from scratch and read it all into your SQL
 
 ---
 
@@ -338,8 +387,7 @@ These URLs were not included in the previously documented catalog. Review, categ
 - [List_of_Manchester_United_F.C._seasons](https://en.wikipedia.org/wiki/List_of_Manchester_United_F.C._seasons)
 - [opisthokonta.net](http://opisthokonta.net)
 - [opisthokonta.net/?page_id=995](https://opisthokonta.net/?page_id=995)  
-- [github.com/alexrockt/de-deutschland](https://github.com/alexrockt/de-deutschland)  
-- [github.com/openfootball/de-deutschland](https://github.com/openfootball/de-deutschland)  
+- [github.com/alexrockt/de-deutschland](https://github.com/alexrockt/de-deutschland)
 - [overlays.nbcsports.com/services/midttl/pl.asmx](http://overlays.nbcsports.com/services/midttl/pl.asmx)  
 - [theguardian.com/football/ng-interactive/2016/jun/01/euro-2016-the-complete-guide-to-every-squad-and-every-player-in-france](http://www.theguardian.com/football/ng-interactive/2016/jun/01/euro-2016-the-complete-guide-to-every-squad-and-every-player-in-france)  
 - [amj2012.shinyapps.io/wosostats/](https://amj2012.shinyapps.io/wosostats/)  
