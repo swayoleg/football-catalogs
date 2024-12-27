@@ -40,15 +40,23 @@ This collection includes GitHub repositories, commercial APIs, websites offering
     - [footballcsv/cache.footballdata](https://github.com/footballcsv/cache.footballdata) - A cache for datasets for the football leagues from 25 seasons back to 1993/94 from [Joseph Buchdahl's Football Data website(football-data.co.uk)](https://football-data.co.uk/) up and running since 2001 (and updated twice a week).
     - [footballcsv/cache.soccerdata](https://github.com/footballcsv/cache.soccerdata) A cache for datasets from [James P. Curley's Soccer Data R statistics package](https://github.com/jalapic/engsoccerdata).
     - [footballcsv/cache.internationals](https://github.com/footballcsv/cache.internationals) A cache for datasets from [Mart Jürisoo's International football results](https://github.com/martj42/international_results) from 1872 to 2020.
+    - [footballcsv/cache.soccerverse](https://github.com/footballcsv/cache.soccerverse) A cache for datasets from [David Schoch's Soccerverse](https://github.com/schochastics/football-data).
 
 - **[jokecamp/FootballData](https://github.com/jokecamp/FootballData)**  
   Huge collection of football data resources & links (“BEST COLLECTION”).
 
-- **[openfootball/england](https://github.com/openfootball/england)**  
-  OpenFootball data for England.
+- **[openfootball](https://github.com/openfootball) / [openfootball.github.io](http://openfootball.github.io/)**
+  - **[openfootball/awesome-football](https://github.com/openfootball/awesome-football)** Good collection of datasets and resources.
+  - **[openfootball/worldcup.json](https://github.com/openfootball/worldcup.json)** Free open public domain football data for the world cups in the JSON.
+  - **[openfootball/players](https://github.com/openfootball/players)** Free open public domain football data (football.db) for players - goalkeepers (G/GK), defenders (D/DF), midfielders (M/MF), forwards (F/FW) - country by country and sorted by date of birth (dob).
+  - **[openfootball/copa-america.json](https://github.com/openfootball/copa-america.json)** Free open public domain football data in the JSON (JavaScript Object Notation) data interchange format. Tournaments include: Copa América 2021, Copa América 2024
+  - **[openfootball/copa-america](https://github.com/openfootball/copa-america)** Free open public domain football data (football.db) for national teams in South America (e.g. Copa América)
+  - **[openfootball/euro.json](https://github.com/openfootball/euro.json)** Free open public domain football data in the JSON (JavaScript Object Notation) data interchange format. Tournaments include: European Football Championship ("Euro") 2020 (in 2021), European Football Championship ("Euro") 2024
+  - **[openfootball/euro](https://github.com/openfootball/euro)** A free open public domain football (soccer) database & schema for use in any (programming) language e.g. uses datasets in (structured) text using the football.txt format
+  - **[openfootball/worldcup](https://github.com/openfootball/worldcup)** A free open public domain football database & schema for use in any (programming) language e.g. uses datasets in (structured) text in the football.txt format.
+  - **[openfootball/v0-format](https://github.com/openfootball/v0-format)** Misc. match schedules and more in the historic / classic v0 football.txt (prototype) format variants
 
-- **[openfootball/awesome-football](https://github.com/openfootball/awesome-football)**  
-  Good collection of datasets and resources.
+
 
 - **[openfootball/football.json](https://github.com/openfootball/football.json)**  
   JSON-based dataset for multiple leagues and competitions.
@@ -114,6 +122,9 @@ This collection includes GitHub repositories, commercial APIs, websites offering
 
 - **[football.db](https://github.com/yorobot/football.db)**  
   DB builder in Ruby.
+
+- **[openfootball/quick-starter](https://github.com/openfootball/quick-starter)**  
+  Soft to convert [openfootball](https://github.com/openfootball) data to db.  It is a command line tool that lets you read datasets (e.g. leagues, clubs, match schedules, etc.) in plain text into your SQL database of choice
 
 ---
 
