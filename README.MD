@@ -25,8 +25,21 @@ This collection includes GitHub repositories, commercial APIs, websites offering
 <a name="github-datasets--projects"></a>
 ## 📊 GitHub Datasets & Projects
 
-- **[footballcsv](https://github.com/footballcsv) / [footballcsv/england](https://github.com/footballcsv/england)**  
-  CSV data for English leagues.
+- ### **[footballcsv](https://github.com/footballcsv) / [footballcsv.github.io](https://footballcsv.github.io/)** -  CSV datasets.
+
+    - [footballcsv/espana](https://github.com/footballcsv/espana) - Spain
+    - [footballcsv/england](https://github.com/footballcsv/england) -  CSV data for English leagues.
+    - [footballcsv/europe-champions-league](https://github.com/footballcsv/europe-champions-league) - ECL
+    - [footballcsv/deutschland](https://github.com/footballcsv/deutschland) - Germany
+    - [footballcsv/austria](https://github.com/footballcsv/austria) - Austria
+    - [footballcsv/major-league-soccer](https://github.com/footballcsv/major-league-soccer) - MLS
+    - [footballcsv/world](https://github.com/footballcsv/world) - World
+    - [footballcsv/cache.wfb](https://github.com/footballcsv/cache.wfb) - Cached worldfootball / weltfußball match data in the comma-separated values (csv) format
+    - [footballcsv/cache.footballsquads](https://github.com/footballcsv/cache.footballsquads) - A cache for datasets for the national team & club football squads from the [Football Squads website](https://footballsquads.co.uk/)
+    - [footballcsv/cache.api.fbdat](https://github.com/footballcsv/cache.api.fbdat) - Cached footballdata api match data in the comma-separated values (csv) format
+    - [footballcsv/cache.footballdata](https://github.com/footballcsv/cache.footballdata) - A cache for datasets for the football leagues from 25 seasons back to 1993/94 from [Joseph Buchdahl's Football Data website(football-data.co.uk)](https://football-data.co.uk/) up and running since 2001 (and updated twice a week).
+    - [footballcsv/cache.soccerdata](https://github.com/footballcsv/cache.soccerdata) A cache for datasets from [James P. Curley's Soccer Data R statistics package](https://github.com/jalapic/engsoccerdata).
+    - [footballcsv/cache.internationals](https://github.com/footballcsv/cache.internationals) A cache for datasets from [Mart Jürisoo's International football results](https://github.com/martj42/international_results) from 1872 to 2020.
 
 - **[jokecamp/FootballData](https://github.com/jokecamp/FootballData)**  
   Huge collection of football data resources & links (“BEST COLLECTION”).
@@ -39,6 +52,9 @@ This collection includes GitHub repositories, commercial APIs, websites offering
 
 - **[openfootball/football.json](https://github.com/openfootball/football.json)**  
   JSON-based dataset for multiple leagues and competitions.
+
+- ** [statsbomb/open-data](https://github.com/statsbomb/open-data) **
+  StatsBomb open data for football analytics.
 
 - **[llimllib/soccerdata](https://github.com/llimllib/soccerdata)**  
   Soccer results and data.
@@ -69,6 +85,9 @@ This collection includes GitHub repositories, commercial APIs, websites offering
 
 - **[somdeep/Statball](https://github.com/somdeep/Statball)**  
   Fbref and StatsBomb analyzer for top 5 European leagues.
+
+- **[martj42/international_results](https://github.com/martj42/international_results) **  
+  This dataset includes 47,917 results of international football matches starting from the very first official match in 1872 up to 2024
 
 ---
 
@@ -150,11 +169,11 @@ This collection includes GitHub repositories, commercial APIs, websites offering
 
 ## 🌎 Website Sources
 
-1. **FBref**  
+- **FBref**  
    - <https://fbref.com/en/matches/1888-12-22>  
    - <https://fbref.com/en/comps/Big5/Big-5-European-Leagues-Stats>
 
-2. **Football-Data.co.uk**  
+- **Football-Data.co.uk**  
    - Main: <https://www.football-data.co.uk/>  
    - [Latest Results (CSV)](https://www.football-data.co.uk/mmz4281/2425/Latest_Results.csv)  
    - [All Leagues Download](https://www.football-data.co.uk/downloadm.php)  
@@ -164,108 +183,110 @@ This collection includes GitHub repositories, commercial APIs, websites offering
      - <https://www.football-data.co.uk/all_new_data.php>  
      - <https://www.football-data.co.uk/new/Latest_Results.csv>
 
-3. **Sports Open Data**  
+- **Sports Open Data**  
    - <https://sportsopendata.net/>
 
-4. **Joke Camp’s Football & Soccer Data & APIs**  
+- **Joke Camp’s Football & Soccer Data & APIs**  
    - <https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/>  
    - <http://jokecamp.github.io/epl-fantasy-geek/#/players>
 
-5. **FotMob**  
+- **FotMob**  
    - <https://www.fotmob.com/>
 
-6. **Understat**  
+- **Understat**  
    - <https://understat.com/>
 
-7. **Transfermarkt**  
+- **Transfermarkt**  
    - <https://www.transfermarkt.com/>
 
-8. **Elo Ratings**  
+- **Elo Ratings**  
    - <http://www.eloratings.net/>
 
-9. **RSSSF**  
+- **RSSSF**  
    - <https://www.rsssf.org/>  
    - [Abkhazia Cup Example](https://www.rsssf.org/tablesa/abchaz2024.html#cup)  
    - [English Premier Example](https://www.rsssf.org/tablese/eng2015.html#premier)
 
-10. **StatsBomb**  
+- **StatsBomb**  
     - <https://statsbomb.com/>
 
-11. **WhoScored**  
+- **WhoScored**  
     - <https://www.whoscored.com/LiveScores>
 
-12. **SoFIFA**  
+- **SoFIFA**  
     - <https://sofifa.com/>
 
-13. **SofaScore**  
+- **SofaScore**  
     - <https://www.sofascore.com/>
 
-14. **Football365**  
+- **Football365**  
     - <https://www.football365.com/premier-league/results>
 
-15. **365Scores**  
+- **365Scores**  
     - <https://www.365scores.com/>
 
-16. **FlashScore**  
+- **FlashScore**  
     - <https://www.flashscore.com/>
 
-17. **LiveScore**  
+- **LiveScore**  
     - <https://www.livescore.com/en/>
 
-18. **SoccerStats.us**  
+- **SoccerStats.us**  
     - <http://soccerstats.us/>
 
-19. **FootyWire**  
+- **FootyWire**  
     - <https://www.footywire.com/>
 
-20. **Goal.com**  
+- **Goal.com**  
     - <https://www.goal.com/en>
 
-21. **Football Squads**  
+- **Football Squads**  
     - <http://www.footballsquads.co.uk/>
 
-22. **European Football Statistics**  
+- **European Football Statistics**  
     - <http://www.european-football-statistics.co.uk/index1.htm>
 
-23. **Neil Brown’s A-Z Player Database**  
+- **Neil Brown’s A-Z Player Database**  
     - <http://www.neilbrown.newcastlefans.com/index.html>  
     - [Man Utd Example](http://www.neilbrown.newcastlefans.com/manutd/manutd.html)
 
-24. **11v11**  
+- **11v11**  
     - <https://www.11v11.com/>
 
-25. **SoccerBase**  
+- **SoccerBase**  
     - <https://www.soccerbase.com/>
 
-26. **WorldFootball.net**  
+- **WorldFootball.net**  
     - <https://www.worldfootball.net/>
 
-27. **FootballDatabase.eu**  
+- **FootballDatabase.eu**  
     - <https://www.footballdatabase.eu/>
 
-28. **FootballDatabase.com**  
+- **FootballDatabase.com**  
     - <https://www.footballdatabase.com/>
 
-29. **StatsFC**  
+- **StatsFC**  
     - <https://statsfc.com/>
 
-30. **Fussballdaten.de**  
+- **Fussballdaten.de**  
     - <https://www.fussballdaten.de/>
 
-31. **PremierLeague.com**  
+- **PremierLeague.com**  
     - [Official Results](https://www.premierleague.com/results)
 
-32. **MLS Players**  
+- **MLS Players**  
     - <https://mlsplayers.org/>
 
-33. **Club Elo**  
+- **Club Elo**  
     - [Data](http://clubelo.com/Data)
 
-34. **ENFA (English National Football Archive)**  
+- **ENFA (English National Football Archive)**  
     - <https://www.enfa.co.uk/>
 
-35. **Statto** (Archive)  
+- **Statto** (Archive)  
     - <http://www.statto.com/football/stats/>
+- **worldclubratings**  
+    - <http://worldclubratings.com/>
 
 ---
 
@@ -303,29 +324,27 @@ This collection includes GitHub repositories, commercial APIs, websites offering
 ## ❓ Not Checked / Junk Links
 
 These URLs were not included in the previously documented catalog. Review, categorize, or discard as needed.
-
-1. [https://en.wikipedia.org/wiki/List_of_Manchester_United_F.C._seasons](https://en.wikipedia.org/wiki/List_of_Manchester_United_F.C._seasons)
-2. [opisthokonta.net](http://opisthokonta.net)  
-3. [opisthokonta.net/?page_id=995](https://opisthokonta.net/?page_id=995)  
-4. [github.com/alexrockt/de-deutschland](https://github.com/alexrockt/de-deutschland)  
-5. [github.com/openfootball/de-deutschland](https://github.com/openfootball/de-deutschland)  
-6. [overlays.nbcsports.com/services/midttl/pl.asmx](http://overlays.nbcsports.com/services/midttl/pl.asmx)  
-7. [theguardian.com/football/ng-interactive/2016/jun/01/euro-2016-the-complete-guide-to-every-squad-and-every-player-in-france](http://www.theguardian.com/football/ng-interactive/2016/jun/01/euro-2016-the-complete-guide-to-every-squad-and-every-player-in-france)  
-8. [amj2012.shinyapps.io/wosostats/](https://amj2012.shinyapps.io/wosostats/)  
-9. [mlssoccer.com/stats/](https://www.mlssoccer.com/stats/)  
-10. [github.com/statsbomb/open-data](https://github.com/statsbomb/open-data)  
-11. [github.com/fivethirtyeight/data/tree/master/womens-world-cup-predictions](https://github.com/fivethirtyeight/data/tree/master/womens-world-cup-predictions)  
-12. [github.com/fivethirtyeight/data/tree/master/world-cup-predictions](https://github.com/fivethirtyeight/data/tree/master/world-cup-predictions)  
-13. [public.tableau.com/profile/jurijfedorov#!/](https://public.tableau.com/profile/jurijfedorov#!/)  
-14. [makeyourstats.com](https://makeyourstats.com/)  
-15. [footystats.org](https://footystats.org/)  
-16. [kaggle.com/c/worldcup2010/data](https://www.kaggle.com/c/worldcup2010/data)  
-17. [kaggle.com/c/worldcupconf](https://www.kaggle.com/c/worldcupconf)  
-18. [sportscruncher.wordpress.com/2013/03/01/links-soccer_data/](https://sportscruncher.wordpress.com/2013/03/01/links-soccer_data/)  
-19. [sportscruncher.wordpress.com/2013/03/14/links-soccer-ratings/](https://sportscruncher.wordpress.com/2013/03/14/links-soccer-ratings/)  
-20. [ceur-ws.org/Vol-1026/paper6.pdf](https://ceur-ws.org/Vol-1026/paper6.pdf)  
-21. [colours-of-football.com](https://www.colours-of-football.com/)  
-22. [historicalkits.co.uk](http://www.historicalkits.co.uk/)
+- [List_of_Manchester_United_F.C._seasons](https://en.wikipedia.org/wiki/List_of_Manchester_United_F.C._seasons)
+- [opisthokonta.net](http://opisthokonta.net)
+- [opisthokonta.net/?page_id=995](https://opisthokonta.net/?page_id=995)  
+- [github.com/alexrockt/de-deutschland](https://github.com/alexrockt/de-deutschland)  
+- [github.com/openfootball/de-deutschland](https://github.com/openfootball/de-deutschland)  
+- [overlays.nbcsports.com/services/midttl/pl.asmx](http://overlays.nbcsports.com/services/midttl/pl.asmx)  
+- [theguardian.com/football/ng-interactive/2016/jun/01/euro-2016-the-complete-guide-to-every-squad-and-every-player-in-france](http://www.theguardian.com/football/ng-interactive/2016/jun/01/euro-2016-the-complete-guide-to-every-squad-and-every-player-in-france)  
+- [amj2012.shinyapps.io/wosostats/](https://amj2012.shinyapps.io/wosostats/)  
+- [mlssoccer.com/stats/](https://www.mlssoccer.com/stats/)
+- [github.com/fivethirtyeight/data/tree/master/womens-world-cup-predictions](https://github.com/fivethirtyeight/data/tree/master/womens-world-cup-predictions)  
+- [github.com/fivethirtyeight/data/tree/master/world-cup-predictions](https://github.com/fivethirtyeight/data/tree/master/world-cup-predictions)  
+- [public.tableau.com/profile/jurijfedorov#!/](https://public.tableau.com/profile/jurijfedorov#!/)  
+- [makeyourstats.com](https://makeyourstats.com/)  
+- [footystats.org](https://footystats.org/)  
+- [kaggle.com/c/worldcup2010/data](https://www.kaggle.com/c/worldcup2010/data)  
+- [kaggle.com/c/worldcupconf](https://www.kaggle.com/c/worldcupconf)  
+- [sportscruncher.wordpress.com/2013/03/01/links-soccer_data/](https://sportscruncher.wordpress.com/2013/03/01/links-soccer_data/)  
+- [sportscruncher.wordpress.com/2013/03/14/links-soccer-ratings/](https://sportscruncher.wordpress.com/2013/03/14/links-soccer-ratings/)  
+- [ceur-ws.org/Vol-1026/paper6.pdf](https://ceur-ws.org/Vol-1026/paper6.pdf)  
+- [colours-of-football.com](https://www.colours-of-football.com/)  
+- [historicalkits.co.uk](http://www.historicalkits.co.uk/)
 
 
 ---
