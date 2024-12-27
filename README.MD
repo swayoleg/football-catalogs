@@ -41,6 +41,7 @@ This collection includes GitHub repositories, commercial APIs, websites offering
     - [footballcsv/cache.soccerdata](https://github.com/footballcsv/cache.soccerdata) A cache for datasets from [James P. Curley's Soccer Data R statistics package](https://github.com/jalapic/engsoccerdata).
     - [footballcsv/cache.internationals](https://github.com/footballcsv/cache.internationals) A cache for datasets from [Mart Jürisoo's International football results](https://github.com/martj42/international_results) from 1872 to 2020.
     - [footballcsv/cache.soccerverse](https://github.com/footballcsv/cache.soccerverse) A cache for datasets from [David Schoch's Soccerverse](https://github.com/schochastics/football-data).
+    - [footballcsv/cache.leagues](https://github.com/footballcsv/cache.leagues) A cache for datasets for football leagues - season by season from various sources.
 
 - **[jokecamp/FootballData](https://github.com/jokecamp/FootballData)**  
   Huge collection of football data resources & links (“BEST COLLECTION”).
@@ -111,21 +112,20 @@ This collection includes GitHub repositories, commercial APIs, websites offering
   - **[openfootball/leagues](https://github.com/openfootball/leagues)** Free open public domain football datasets for national and international football club leagues and cups from around the world
 
 - **[statsbomb/open-data](https://github.com/statsbomb/open-data)** StatsBomb open data for football analytics. ***!! Around 19 GB***
+- **[schochastics/football-data](https://github.com/schochastics/football-data)** This repository contains some datasets for football (soccer).
 
-- **[llimllib/soccerdata](https://github.com/llimllib/soccerdata)**  
-  Soccer results and data.
+- **[llimllib/soccerdata](https://github.com/llimllib/soccerdata)** Soccer results and data. (The goal of this project is to be an up-to-date, open, easily machine-processible repository of soccer results.) *** Updated 10 years ago ***
 
-- **[JaseZiv/worldfootballR](https://github.com/JaseZiv/worldfootballR)**  
-  R package to fetch data from various soccer sources.
 
-- **[dcaribou/transfermarkt-datasets](https://github.com/dcaribou/transfermarkt-datasets)**  
-  Transfermarkt data in dataset form.
+- **[JaseZiv/worldfootballR](https://github.com/JaseZiv/worldfootballR)**  R package to fetch data from various soccer sources. This package is designed to allow users to extract various world football results and player statistics from the following popular football (soccer) data sites:
+  - FBref 
+  - Transfermarkt 
+  - Understat
 
-- **[jalapic/engsoccerdata (data-raw)](https://github.com/jalapic/engsoccerdata/tree/master/data-raw)**  
-  Raw soccer datasets focusing on English leagues.
 
-- **[jfjelstul/worldcup](https://github.com/jfjelstul/worldcup)**  
-  The Fjelstul World Cup Database.
+- **[jalapic/engsoccerdata (data-raw)](https://github.com/jalapic/engsoccerdata/tree/master/data-raw)** Raw soccer datasets focusing on English leagues. Nov 2022 update: All European league datasets [England,Scotland,Italy,Germany,France,Holland,Spain,Belgium,Greece,Turkey,Portugal]
+
+- **[jfjelstul/worldcup](https://github.com/jfjelstul/worldcup)** By  Joshua C. Fjelstul, Ph.D. Covers all 22 men's tournaments (1930-2022) and all 8 women's tournaments (1991-2019)
 
 - **[rsssf](https://github.com/rsssf) / [rsssf/england](https://github.com/rsssf/england)**  
   Mirror of Rec.Sport.Soccer Statistics Foundation data.
@@ -142,16 +142,20 @@ This collection includes GitHub repositories, commercial APIs, websites offering
 - **[somdeep/Statball](https://github.com/somdeep/Statball)**  
   Fbref and StatsBomb analyzer for top 5 European leagues.
 
-- **[martj42/international_results](https://github.com/martj42/international_results)**  
-  This dataset includes 47,917 results of international football matches starting from the very first official match in 1872 up to 2024
+- **[martj42/international_results](https://github.com/martj42/international_results)** 
+  - This dataset includes 47,917 results of international football matches starting from the very first official match in 1872 up to 2024
+  - [https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017)
 
 ---
 
 <a name="tools"></a>
 ## ⚙️ Tools
 
-- **[transfermarkt-scraper](https://github.com/dcaribou/transfermarkt-scraper)**  
-  Scrapes Transfermarkt for players, teams, transfers, etc.
+- **[transfermarkt-scraper](https://github.com/dcaribou/transfermarkt-scraper)** Scrapes [Transfermarkt](https://www.transfermarkt.co.uk/) for players, teams, transfers, etc.
+- **[dcaribou/transfermarkt-datasets](https://github.com/dcaribou/transfermarkt-datasets)** In an nutshell, this project aims for three things:
+  - Acquiring data from the transfermarkt website using the [trasfermarkt-scraper](https://github.com/dcaribou/transfermarkt-scraper) (above).
+  - Building a clean, public football (soccer) dataset using data in 1.
+  - Automating 1 and 2 to keep assets up to date and publicly available on some well-known data catalogs.
 
 - **[somdeep/Statball](https://github.com/somdeep/Statball)**  
   (Listed above) Analysis tool for Fbref and StatsBomb data.
@@ -367,15 +371,12 @@ This collection includes GitHub repositories, commercial APIs, websites offering
 ## 📜   Additional Websites
 
 - <http://www.fantasysportnet.com/data/home.jsp>  
-- <https://www.goalserve.com/en/sport-data-feeds/football-api/prices>  
-- <https://apifootball.com/>  
-- <https://football-api.com/>  
-- <https://soccersapi.com/>  
-- <https://www.goalserve.com/en/sport-data-feeds/football-api/prices>  
+- <https://www.goalserve.com/en/sport-data-feeds/football-api/prices>
 - <https://www.sportmonks.com/>  
-- <https://api.besoccer.com/en>  
-- <https://statsfc.com/api>  
+- <https://api.besoccer.com/en>
 - <https://www.openligadb.de/>
+- [colours-of-football.com](https://www.colours-of-football.com/) -  Graphics of football kits, both the clubs and the national teams. No fantasy kits here, only the real kits.
+- [historicalkits.co.uk](http://www.historicalkits.co.uk/) -  Historical Football Kits
 
 ---
 
@@ -399,11 +400,11 @@ These URLs were not included in the previously documented catalog. Review, categ
 - [footystats.org](https://footystats.org/)  
 - [kaggle.com/c/worldcup2010/data](https://www.kaggle.com/c/worldcup2010/data)  
 - [kaggle.com/c/worldcupconf](https://www.kaggle.com/c/worldcupconf)  
+- [https://www.kaggle.com/datasets/hugomathien/soccer](https://www.kaggle.com/datasets/hugomathien/soccer)  
 - [sportscruncher.wordpress.com/2013/03/01/links-soccer_data/](https://sportscruncher.wordpress.com/2013/03/01/links-soccer_data/)  
 - [sportscruncher.wordpress.com/2013/03/14/links-soccer-ratings/](https://sportscruncher.wordpress.com/2013/03/14/links-soccer-ratings/)  
-- [ceur-ws.org/Vol-1026/paper6.pdf](https://ceur-ws.org/Vol-1026/paper6.pdf)  
-- [colours-of-football.com](https://www.colours-of-football.com/)  
-- [historicalkits.co.uk](http://www.historicalkits.co.uk/)
+- [ceur-ws.org/Vol-1026/paper6.pdf](https://ceur-ws.org/Vol-1026/paper6.pdf)
+- [https://www.kaggle.com/datasets/sashchernuh/european-football/code](https://www.kaggle.com/datasets/sashchernuh/european-football/code)
 
 
 ---
