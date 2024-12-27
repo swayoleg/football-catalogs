@@ -1,10 +1,13 @@
-# Football (Soccer) Data Catalog
+# Ultimate Football  (Soccer) Data Catalog
 
-A curated list of data sources, tools, and APIs for exploring, analyzing, and visualizing football (soccer) information. This collection includes GitHub repositories, commercial APIs, websites offering detailed stats, historical results, fixtures, and more.
+Welcome to the **Ultimate Football Data Catalog**, a comprehensive collection of football (soccer) databases, APIs, tools, and resources for analysts, developers, and enthusiasts.
+A curated list of data sources, tools, and APIs for exploring, analyzing, and visualizing football (soccer) information. 
+This collection includes GitHub repositories, commercial APIs, websites offering detailed stats, historical results, fixtures, and more.
+
 
 ---
 
-## Table of Contents
+## 📂  Table of Contents
 
 1. [GitHub Datasets & Projects](#github-datasets--projects)  
 2. [Tools](#tools)  
@@ -13,10 +16,11 @@ A curated list of data sources, tools, and APIs for exploring, analyzing, and vi
 5. [Website Sources](#website-sources)  
 6. [ESPN](#espn)  
 7. [Additional Websites](#additional-websites)  
+8. [Not checked websites/links](#not-checked)
 
 ---
 
-## GitHub Datasets & Projects
+## 📊 GitHub Datasets & Projects
 
 - **[footballcsv](https://github.com/footballcsv) / [footballcsv/england](https://github.com/footballcsv/england)**  
   CSV data for English leagues.
@@ -65,7 +69,7 @@ A curated list of data sources, tools, and APIs for exploring, analyzing, and vi
 
 ---
 
-## Tools
+## ⚙️ Tools
 
 - **[transfermarkt-scraper](https://github.com/dcaribou/transfermarkt-scraper)**  
   Scrapes Transfermarkt for players, teams, transfers, etc.
@@ -90,7 +94,7 @@ A curated list of data sources, tools, and APIs for exploring, analyzing, and vi
 
 ---
 
-## API Websites
+## 🌐 API Websites
 
 - [football-data.org](https://www.football-data.org/documentation/api)  
 - [sportsopendata.net](https://sportsopendata.net/)  
@@ -99,7 +103,7 @@ A curated list of data sources, tools, and APIs for exploring, analyzing, and vi
 
 ---
 
-## Commercial APIs
+## 💵 Commercial ONLY APIs
 
 - **Fantasy Sport Net**  
   - [Home](http://www.fantasysportnet.com/data/home.jsp)  
@@ -135,7 +139,7 @@ A curated list of data sources, tools, and APIs for exploring, analyzing, and vi
 
 ---
 
-## Website Sources
+## 🌎 Website Sources
 
 1. **FBref**  
    - <https://fbref.com/en/matches/1888-12-22>  
@@ -256,7 +260,7 @@ A curated list of data sources, tools, and APIs for exploring, analyzing, and vi
 
 ---
 
-## ESPN
+## 📺  ESPN
 
 - <https://www.espn.com/soccer/>  
 - <http://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/teams>  
@@ -266,7 +270,7 @@ A curated list of data sources, tools, and APIs for exploring, analyzing, and vi
 
 ---
 
-## Additional Websites
+## 📜   Additional Websites
 
 - <http://www.fantasysportnet.com/data/home.jsp>  
 - <https://www.goalserve.com/en/sport-data-feeds/football-api/prices>  
@@ -281,4 +285,49 @@ A curated list of data sources, tools, and APIs for exploring, analyzing, and vi
 
 ---
 
-**Happy Coding & Analysis!**
+## ❓ Not Checked / Junk Links
+
+These URLs were not included in the previously documented catalog. Review, categorize, or discard as needed.
+
+1. [https://en.wikipedia.org/wiki/List_of_Manchester_United_F.C._seasons](https://en.wikipedia.org/wiki/List_of_Manchester_United_F.C._seasons)
+2. [opisthokonta.net](http://opisthokonta.net)  
+3. [opisthokonta.net/?page_id=995](https://opisthokonta.net/?page_id=995)  
+4. [github.com/alexrockt/de-deutschland](https://github.com/alexrockt/de-deutschland)  
+5. [github.com/openfootball/de-deutschland](https://github.com/openfootball/de-deutschland)  
+6. [overlays.nbcsports.com/services/midttl/pl.asmx](http://overlays.nbcsports.com/services/midttl/pl.asmx)  
+7. [theguardian.com/football/ng-interactive/2016/jun/01/euro-2016-the-complete-guide-to-every-squad-and-every-player-in-france](http://www.theguardian.com/football/ng-interactive/2016/jun/01/euro-2016-the-complete-guide-to-every-squad-and-every-player-in-france)  
+8. [amj2012.shinyapps.io/wosostats/](https://amj2012.shinyapps.io/wosostats/)  
+9. [mlssoccer.com/stats/](https://www.mlssoccer.com/stats/)  
+10. [github.com/statsbomb/open-data](https://github.com/statsbomb/open-data)  
+11. [github.com/fivethirtyeight/data/tree/master/womens-world-cup-predictions](https://github.com/fivethirtyeight/data/tree/master/womens-world-cup-predictions)  
+12. [github.com/fivethirtyeight/data/tree/master/world-cup-predictions](https://github.com/fivethirtyeight/data/tree/master/world-cup-predictions)  
+13. [public.tableau.com/profile/jurijfedorov#!/](https://public.tableau.com/profile/jurijfedorov#!/)  
+14. [makeyourstats.com](https://makeyourstats.com/)  
+15. [footystats.org](https://footystats.org/)  
+16. [kaggle.com/c/worldcup2010/data](https://www.kaggle.com/c/worldcup2010/data)  
+17. [kaggle.com/c/worldcupconf](https://www.kaggle.com/c/worldcupconf)  
+18. [sportscruncher.wordpress.com/2013/03/01/links-soccer_data/](https://sportscruncher.wordpress.com/2013/03/01/links-soccer_data/)  
+19. [sportscruncher.wordpress.com/2013/03/14/links-soccer-ratings/](https://sportscruncher.wordpress.com/2013/03/14/links-soccer-ratings/)  
+20. [ceur-ws.org/Vol-1026/paper6.pdf](https://ceur-ws.org/Vol-1026/paper6.pdf)  
+21. [colours-of-football.com](https://www.colours-of-football.com/)  
+22. [historicalkits.co.uk](http://www.historicalkits.co.uk/)
+
+
+---
+
+## 🤝 Contributions
+
+We welcome contributions! Please submit additional resources, datasets, or tools via pull requests or open an issue.
+
+---
+
+## ⚠️ License
+
+Please check individual licenses for datasets, APIs, and tools before usage.
+
+---
+
+Happy exploring and analyzing! ⚽
+
+
+
