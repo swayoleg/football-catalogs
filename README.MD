@@ -27,7 +27,7 @@ This collection includes GitHub repositories, commercial APIs, websites offering
 
 -  **[footballcsv](https://github.com/footballcsv) / [footballcsv.github.io](https://footballcsv.github.io/)** -  CSV datasets.
 
-    - [footballcsv/espana](https://github.com/footballcsv/espana) - Spain
+    - [footballcsv/espana](https://github.com/footballcsv/espana){target="_blank"} - Spain
     - [footballcsv/england](https://github.com/footballcsv/england) -  CSV data for English leagues.
     - [footballcsv/europe-champions-league](https://github.com/footballcsv/europe-champions-league) - ECL
     - [footballcsv/deutschland](https://github.com/footballcsv/deutschland) - Germany
