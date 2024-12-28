@@ -191,13 +191,10 @@ This collection includes GitHub repositories, commercial APIs, websites offering
   - Automating 1 and 2 to keep assets up to date and publicly available on some well-known data catalogs.
 
 - **[somdeep/Statball](https://github.com/somdeep/Statball)**  
-  (Listed above) Analysis tool for Fbref and StatsBomb data.
+  (Listed above) Analysis tool for Fbref and StatsBomb data for top 5 European leagues..
 
 - **[soccer-cli](https://github.com/architv/soccer-cli)**  
   CLI wrapper for [football-data.org](https://www.football-data.org/).
-
-- **[somdeep/Statball](https://github.com/somdeep/Statball)**   
-  .NET Fbref and StatsBomb analyzer for top 5 European leagues.
 
 - **[soccerdata](https://github.com/probberechts/soccerdata)**  
   Collection of scrapers for soccer data.
@@ -274,128 +271,155 @@ This collection includes GitHub repositories, commercial APIs, websites offering
 
 ## 🌎 Website Sources
 
-- **FBref**  
-   - <https://fbref.com/en/matches/1888-12-22>  
-   - <https://fbref.com/en/comps/Big5/Big-5-European-Leagues-Stats>
+### Websites with data sources / collections, historical data
+- **FBref**
+    - <https://fbref.com/en/matches/1888-12-22>
+    - <https://fbref.com/en/comps/Big5/Big-5-European-Leagues-Stats>
 
-- **Football-Data.co.uk**  
-   - Main: <https://www.football-data.co.uk/>  
-   - [Latest Results (CSV)](https://www.football-data.co.uk/mmz4281/2425/Latest_Results.csv)  
-   - [All Leagues Download](https://www.football-data.co.uk/downloadm.php)  
-   - [Fixtures](https://www.football-data.co.uk/matches.php) or [fixtures.csv](https://www.football-data.co.uk/fixtures.csv)  
-   - [Notes](https://www.football-data.co.uk/notes.txt)  
-   - Additional:  
-     - <https://www.football-data.co.uk/all_new_data.php>  
-     - <https://www.football-data.co.uk/new/Latest_Results.csv>
+- **Football-Data.co.uk**
+    - Main: <https://www.football-data.co.uk/>
+    - [Latest Results (CSV)](https://www.football-data.co.uk/mmz4281/2425/Latest_Results.csv)
+    - [All Leagues Download](https://www.football-data.co.uk/downloadm.php)
+    - [Fixtures](https://www.football-data.co.uk/matches.php) or [fixtures.csv](https://www.football-data.co.uk/fixtures.csv)
+    - [Notes](https://www.football-data.co.uk/notes.txt)
+    - Additional:
+        - <https://www.football-data.co.uk/all_new_data.php>
+        - <https://www.football-data.co.uk/new/Latest_Results.csv>
 
-- **Sports Open Data**  
-   - <https://sportsopendata.net/>
+- **Sports Open Data**
+    - <https://sportsopendata.net/>
 
-- **Joke Camp’s Football & Soccer Data & APIs**  
-   - <https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/>  
-   - <http://jokecamp.github.io/epl-fantasy-geek/#/players>
+- **Joke Camp’s Football & Soccer Data & APIs**
+    - <https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/>
+    - <http://jokecamp.github.io/epl-fantasy-geek/#/players>
 
-- **FotMob**  
-   - <https://www.fotmob.com/>
+- **RSSSF**
+    - <https://www.rsssf.org/>
+    - [Abkhazia Cup Example](https://www.rsssf.org/tablesa/abchaz2024.html#cup)
+    - [English Premier Example](https://www.rsssf.org/tablese/eng2015.html#premier)
 
-- **Understat**  
-   - <https://understat.com/>
-
-- **Transfermarkt**  
-   - <https://www.transfermarkt.com/>
-
-- **Elo Ratings**  
-   - <http://www.eloratings.net/>
-
-- **RSSSF**  
-   - <https://www.rsssf.org/>  
-   - [Abkhazia Cup Example](https://www.rsssf.org/tablesa/abchaz2024.html#cup)  
-   - [English Premier Example](https://www.rsssf.org/tablese/eng2015.html#premier)
-
-- **StatsBomb**  
-    - <https://statsbomb.com/>
-
-- **WhoScored**  
-    - <https://www.whoscored.com/LiveScores>
-
-- **SoFIFA**  
-    - <https://sofifa.com/>
-
-- **SofaScore**  
-    - <https://www.sofascore.com/>
-
-- **Football365**  
-    - <https://www.football365.com/premier-league/results>
-
-- **365Scores**  
-    - <https://www.365scores.com/>
-
-- **FlashScore**  
-    - <https://www.flashscore.com/>
-
-- **LiveScore**  
-    - <https://www.livescore.com/en/>
-
-- **SoccerStats.us**  
-    - <http://soccerstats.us/>
-
-- **FootyWire**  
-    - <https://www.footywire.com/>
-
-- **Goal.com**  
-    - <https://www.goal.com/en>
-
-- **Football Squads**  
-    - <http://www.footballsquads.co.uk/>
-
-- **European Football Statistics**  
+- **European Football Statistics**
     - <http://www.european-football-statistics.co.uk/index1.htm>
 
-- **Neil Brown’s A-Z Player Database**  
-    - <http://www.neilbrown.newcastlefans.com/index.html>  
+- **Neil Brown’s A-Z Player Database**
+    - <http://www.neilbrown.newcastlefans.com/index.html>
     - [Man Utd Example](http://www.neilbrown.newcastlefans.com/manutd/manutd.html)
 
-- **11v11**  
-    - <https://www.11v11.com/>
-
-- **SoccerBase**  
-    - <https://www.soccerbase.com/>
-
-- **WorldFootball.net**  
-    - <https://www.worldfootball.net/>
-
-- **FootballDatabase.eu**  
-    - <https://www.footballdatabase.eu/>
-
-- **FootballDatabase.com**  
-    - <https://www.footballdatabase.com/>
-
-- **StatsFC**  
-    - <https://statsfc.com/>
-
-- **Fussballdaten.de**  
-    - <https://www.fussballdaten.de/>
-
-- **PremierLeague.com**  
-    - [Official Results](https://www.premierleague.com/results)
-
-- **MLS Players**  
-    - <https://mlsplayers.org/>
-
-- **Club Elo**  
-    - [Data](http://clubelo.com/Data)
-
-- **ENFA (English National Football Archive)**  
+- **ENFA (English National Football Archive)**
     - <https://www.enfa.co.uk/>
 
-- **Statto** (Archive)  
+- **Statto** (Archive)
     - <http://www.statto.com/football/stats/>
-- **worldclubratings**  
+
+- **Football Squads**
+    - <http://www.footballsquads.co.uk/>
+
+---
+
+### Websites with focus on recent / live results
+- **FotMob**
+    - <https://www.fotmob.com/>
+
+- **SofaScore**
+    - <https://www.sofascore.com/>
+
+- **Football365**
+    - <https://www.football365.com/premier-league/results>
+
+- **365Scores**
+    - <https://www.365scores.com/>
+
+- **FlashScore**
+    - <https://www.flashscore.com/>
+
+- **LiveScore**
+    - <https://www.livescore.com/en/>
+
+- **Goal.com**
+    - <https://www.goal.com/en>
+
+---
+
+### Websites with focus on statistic
+- **Understat**
+    - <https://understat.com/>
+
+- **Transfermarkt**
+    - <https://www.transfermarkt.com/>
+
+- **Elo Ratings**
+    - <http://www.eloratings.net/>
+
+- **StatsBomb**
+    - <https://statsbomb.com/>
+
+- **WhoScored**
+    - <https://www.whoscored.com/LiveScores>
+
+- **SoFIFA**
+    - <https://sofifa.com/>
+
+- **SoccerStats.us**
+    - <http://soccerstats.us/>
+
+- **FootyWire**
+    - <https://www.footywire.com/>
+
+- **Club Elo**
+    - [Data](http://clubelo.com/Data)
+
+- **WorldFootball.net**
+    - <https://www.worldfootball.net/>
+
+- **FootballDatabase.eu**
+    - <https://www.footballdatabase.eu/>
+
+- **FootballDatabase.com**
+    - <https://www.footballdatabase.com/>
+
+- **StatsFC**
+    - <https://statsfc.com/>
+
+- **Fussballdaten.de**
+    - <https://www.fussballdaten.de/>
+
+- **SoccerBase**
+    - <https://www.soccerbase.com/>
+
+- **worldclubratings**
     - <http://worldclubratings.com/>
 
 ---
 
-<a name="espn"></a>
+## ⚽ League-Specific Sites
+
+Below are official or well-known resources for some of the top football leagues around the world.
+
+### English Premier League (EPL)
+- **Official Site**: [https://www.premierleague.com](https://www.premierleague.com)
+- **Results**: [https://www.premierleague.com/results](https://www.premierleague.com/results)
+
+### La Liga (Spain)
+- **Official Site**: [https://www.laliga.com](https://www.laliga.com)
+
+### Bundesliga (Germany)
+- **Official Site**: [https://www.bundesliga.com/en/bundesliga](https://www.bundesliga.com/en/bundesliga)
+
+### Serie A (Italy)
+- **Official Site**: [https://www.legaseriea.it/en](https://www.legaseriea.it/en)
+
+### Ligue 1 (France)
+- **Official Site**: [https://www.ligue1.com](https://www.ligue1.com)
+
+### Major League Soccer (MLS)
+- **Official Site**: [https://www.mlssoccer.com](https://www.mlssoccer.com)
+- **MLS Players Association**: [https://mlsplayers.org/](https://mlsplayers.org/)
+
+---
+
+### Other Websites
+*(Add any sites that don’t fit into the above categories.)*
+
 
 ## 📺  ESPN
 
