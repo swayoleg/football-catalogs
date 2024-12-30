@@ -314,6 +314,9 @@ This collection includes GitHub repositories, commercial APIs, websites offering
 - **Football Squads**
     - <http://www.footballsquads.co.uk/>
 
+- **Injuries and Suspensions**
+    - <https://injuriesandsuspensions.com/>
+
 ---
 
 ### Websites with focus on recent / live results
@@ -343,6 +346,9 @@ This collection includes GitHub repositories, commercial APIs, websites offering
 ### Websites with focus on statistic
 - **Understat**
     - <https://understat.com/>
+
+- **soccerwidow** 
+  - <https://www.soccerwidow.com/>
 
 - **Transfermarkt**
     - <https://www.transfermarkt.com/>
