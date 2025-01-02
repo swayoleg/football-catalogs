@@ -265,6 +265,9 @@ This collection includes GitHub repositories, commercial APIs, websites offering
 - **OpenLigaDB**  
   - <https://www.openligadb.de/>
 
+- **BetsApi**
+  - <https://betsapi.com/> 
+
 ---
 
 <a name="website-sources"></a>
