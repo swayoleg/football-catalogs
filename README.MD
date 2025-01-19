@@ -459,6 +459,9 @@ Below are official or well-known resources for some of the top football leagues 
 ## ❓ Not Checked / Junk Links
 
 These URLs were not included in the previously documented catalog. Review, categorize, or discard as needed.
+- https://github.com/datasets/football-datasets
+- https://github.com/google-research/football
+- https://colab.research.google.com/github/google-research/football/blob/master/gfootball/colabs/gfootball_example_from_prebuild.ipynb
 - [List_of_Manchester_United_F.C._seasons](https://en.wikipedia.org/wiki/List_of_Manchester_United_F.C._seasons)
 - [opisthokonta.net](http://opisthokonta.net)
 - [opisthokonta.net/?page_id=995](https://opisthokonta.net/?page_id=995)  
