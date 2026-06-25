@@ -10,15 +10,17 @@ This collection includes GitHub repositories, commercial APIs, websites offering
 ## 📂  Table of Contents
 
 1. [📊GitHub Datasets & Projects](#github-datasets--projects)  
-2. [⚙️Tools](#tools)  
-3. [🌐API Websites](#api-websites)  
-4. [💵Commercial APIs](#commercial-apis)  
-5. [🌎Website Sources](#website-sources)  
-6. [📺ESPN](#espn)  
-7. [📜Additional Websites](#additional-websites)  
-8. [❓Not checked websites/links](#not-checked)
-9. [🤝Contributions](#contributions)
-10. [⚠️ License](#license)
+2. [📚Catalogs & Awesome Lists](#catalogs)  
+3. [⚙️Tools](#tools)  
+4. [🌐API Websites](#api-websites)  
+5. [💵Commercial APIs](#commercial-apis)  
+6. [🌎Website Sources](#website-sources)  
+7. [📺ESPN](#espn)  
+8. [📜Additional Websites](#additional-websites)  
+9. [❓Not checked websites/links](#not-checked)
+10. [🪦Deprecated / Gone](#deprecated-gone)
+11. [🤝Contributions](#contributions)
+12. [⚠️ License](#license)
 
 ---
 
@@ -69,8 +71,6 @@ This collection includes GitHub repositories, commercial APIs, websites offering
       Free open public domain football datasets include: Egypt - Premiership, Morocco - Botola Pro 1  and others
   - **[openfootball/austria](https://github.com/openfootball/austria)** 
       Free open public domain football data for Austria (Österreich). National football club leagues and cup
-  - **[openfootball/mexico](https://github.com/openfootball/mexico)** 
-      Free open public domain football data (football.db) for Mexico / North America
   - **[openfootball/deutschland](https://github.com/openfootball/deutschland)** 
       Deutschland (Germany) - Deutsche Bundesliga, DFB Pokal
   - **[openfootball/italy](https://github.com/openfootball/italy)** 
@@ -180,6 +180,22 @@ This collection includes GitHub repositories, commercial APIs, websites offering
 
 ---
 
+<a name="catalogs"></a>
+## 📚 Catalogs & Awesome Lists
+
+Meta-collections — curated guides and link hubs that point to many other football data sources, datasets, and analytics resources.
+
+- **[eddwebster/football_analytics](https://github.com/eddwebster/football_analytics)** — Edd Webster's massive "Ultimate Guide" to football data and analytics: data sources, code, tutorials, research papers, and visualisations. One of the most comprehensive catalogs available.
+- **[devinpleuler/analytics-handbook](https://github.com/devinpleuler/analytics-handbook)** — Soccer analytics handbook with notebooks, data, and worked examples.
+- **[Friends-of-Tracking-Data-FoTD](https://github.com/Friends-of-Tracking-Data-FoTD)** — "Friends of Tracking" org: tutorials, code, and datasets for tracking/event-data analytics (companion to the popular YouTube series).
+- **[ML-KULeuven/socceraction](https://github.com/ML-KULeuven/socceraction)** — Library + data tooling for valuing on-the-ball actions (VAEP/xT) from event data.
+- **[vaastav/Fantasy-Premier-League](https://github.com/vaastav/Fantasy-Premier-League)** — Cleaned, season-by-season Fantasy Premier League datasets, plus a wrapper for the official [FPL API](https://fantasy.premierleague.com/api/bootstrap-static/).
+- **[datasets/football-datasets](https://github.com/datasets/football-datasets)** — Frictionless Data packaged football league datasets.
+- **[datahub.io – football collection](https://datahub.io/collections/football)** — DataHub's curated collection of football data packages.
+- **[GitHub topic: football-data](https://github.com/topics/football-data)** — Live, self-updating index of repositories tagged `football-data` on GitHub.
+
+---
+
 <a name="tools"></a>
 ## ⚙️ Tools
 
@@ -233,10 +249,6 @@ This collection includes GitHub repositories, commercial APIs, websites offering
 <a name="commercial-apis"></a>
 ## 💵 Commercial ONLY APIs
 
-- **Fantasy Sport Net**  
-  - [Home](http://www.fantasysportnet.com/data/home.jsp)  
-  - [Support](http://www.fantasysportnet.com/data/support.jsp)
-
 - **GoalServe**  
   - <https://www.goalserve.com/en/sport-data-feeds/football-api/prices>
 
@@ -246,12 +258,10 @@ This collection includes GitHub repositories, commercial APIs, websites offering
   - [Documentation v2](https://apifootball.com/documentation-v2/#Countries)
 
 - **Football-API**  
-  - <https://football-api.com/>  
-  - [Docs](https://football-api.com/documentation3/#!/Competitions/get_competitions)
+  - <https://football-api.com/>
 
 - **SoccersAPI**  
-  - <https://soccersapi.com/>  
-  - [Documentation](https://soccersapi.com/page/documentation)
+  - <https://soccersapi.com/>
 
 - **SportMonks**  
   - <https://www.sportmonks.com/>
@@ -368,9 +378,6 @@ This collection includes GitHub repositories, commercial APIs, websites offering
 - **SoFIFA**
     - <https://sofifa.com/>
 
-- **SoccerStats.us**
-    - <http://soccerstats.us/>
-
 - **FootyWire**
     - <https://www.footywire.com/>
 
@@ -444,7 +451,6 @@ Below are official or well-known resources for some of the top football leagues 
 
 ## 📜   Additional Websites
 
-- <http://www.fantasysportnet.com/data/home.jsp>  
 - <https://www.goalserve.com/en/sport-data-feeds/football-api/prices>
 - <https://www.sportmonks.com/>  
 - <https://api.besoccer.com/en>
@@ -465,8 +471,6 @@ These URLs were not included in the previously documented catalog. Review, categ
 - [List_of_Manchester_United_F.C._seasons](https://en.wikipedia.org/wiki/List_of_Manchester_United_F.C._seasons)
 - [opisthokonta.net](http://opisthokonta.net)
 - [opisthokonta.net/?page_id=995](https://opisthokonta.net/?page_id=995)  
-- [github.com/alexrockt/de-deutschland](https://github.com/alexrockt/de-deutschland)
-- [overlays.nbcsports.com/services/midttl/pl.asmx](http://overlays.nbcsports.com/services/midttl/pl.asmx)  
 - [theguardian.com/football/ng-interactive/2016/jun/01/euro-2016-the-complete-guide-to-every-squad-and-every-player-in-france](http://www.theguardian.com/football/ng-interactive/2016/jun/01/euro-2016-the-complete-guide-to-every-squad-and-every-player-in-france)  
 - [amj2012.shinyapps.io/wosostats/](https://amj2012.shinyapps.io/wosostats/)  
 - [mlssoccer.com/stats/](https://www.mlssoccer.com/stats/)
@@ -483,6 +487,20 @@ These URLs were not included in the previously documented catalog. Review, categ
 - [ceur-ws.org/Vol-1026/paper6.pdf](https://ceur-ws.org/Vol-1026/paper6.pdf)
 - [https://www.kaggle.com/datasets/sashchernuh/european-football/code](https://www.kaggle.com/datasets/sashchernuh/european-football/code)
 
+
+---
+
+<a name="deprecated-gone"></a>
+
+## 🪦 Deprecated / Gone
+
+Resources that were previously listed but are now dead, removed, or unreachable (last verified 2026-06-25). Kept here for reference instead of silently deleting.
+
+- **[openfootball/mexico](https://github.com/openfootball/mexico)** — GitHub repo returns 404 (removed/merged upstream). Mexico / North America data now lives in **[openfootball/world](https://github.com/openfootball/world)**.
+- **[alexrockt/de-deutschland](https://github.com/alexrockt/de-deutschland)** — GitHub repo gone (404).
+- **Fantasy Sport Net** (`fantasysportnet.com/data/`) — site no longer responds (connection timeout).
+- **SoccerStats.us** (`soccerstats.us`) — site no longer responds (connection timeout).
+- **NBC Sports overlays feed** (`overlays.nbcsports.com/services/midttl/pl.asmx`) — host no longer resolves (DNS failure).
 
 ---
 
