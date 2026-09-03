@@ -30,7 +30,7 @@ This collection includes GitHub repositories, commercial APIs, websites offering
 
 <img src="https://fdb4.io/favicon-32.png" width="20" height="20" align="left" style="margin-right:6px;" />
 
-**[FDB4](https://fdb4.io/)** — Personal football database covering 540,000+ matches across European club leagues, cups, and national teams: results, fixtures, head-to-head archives, standings and tournament tables, a streak finder and draw predictor, plus an online football prediction arcade game with a leaderboard. Also offers a REST/JSON **API** and an **MCP server** for AI agents (Claude, ChatGPT, Cursor) — ***paid***.
+**[FDB4](https://fdb4.io/)** — Personal football database covering 540,000+ matches across European club leagues, cups, and national teams: results, fixtures, head-to-head archives, standings and tournament tables, a streak finder and draw predictor, plus an online football prediction arcade game with a leaderboard — all ***free*** to browse. Also offers a REST/JSON **API** and an **MCP server** for AI agents (Claude, ChatGPT, Cursor) — ***paid***.
 
 ---
 
