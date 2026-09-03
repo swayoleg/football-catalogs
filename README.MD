@@ -9,18 +9,28 @@ This collection includes GitHub repositories, commercial APIs, websites offering
 
 ## 📂  Table of Contents
 
-1. [📊GitHub Datasets & Projects](#github-datasets--projects)  
-2. [📚Catalogs & Awesome Lists](#catalogs)  
-3. [⚙️Tools](#tools)  
-4. [🌐API Websites](#api-websites)  
-5. [💵Commercial APIs](#commercial-apis)  
-6. [🌎Website Sources](#website-sources)  
-7. [📺ESPN](#espn)  
-8. [📜Additional Websites](#additional-websites)  
-9. [❓Not checked websites/links](#not-checked)
-10. [🪦Deprecated / Gone](#deprecated-gone)
-11. [🤝Contributions](#contributions)
-12. [⚠️ License](#license)
+1. [🌟All-in-One](#all-in-one)
+2. [📊GitHub Datasets & Projects](#github-datasets--projects)  
+3. [📚Catalogs & Awesome Lists](#catalogs)  
+4. [⚙️Tools](#tools)  
+5. [🌐API Websites](#api-websites)  
+6. [💵Commercial APIs](#commercial-apis)  
+7. [🌎Website Sources](#website-sources)  
+8. [📺ESPN](#espn)  
+9. [📜Additional Websites](#additional-websites)  
+10. [❓Not checked websites/links](#not-checked)
+11. [🪦Deprecated / Gone](#deprecated-gone)
+12. [🤝Contributions](#contributions)
+13. [⚠️ License](#license)
+
+---
+
+<a name="all-in-one"></a>
+## 🌟 All-in-One
+
+<img src="https://fdb4.io/favicon-32.png" width="20" height="20" align="left" style="margin-right:6px;" />
+
+**[FDB4](https://fdb4.io/)** — Personal football database covering 540,000+ matches across European club leagues, cups, and national teams: results, fixtures, head-to-head archives, standings and tournament tables, a streak finder and draw predictor, plus an online football prediction arcade game with a leaderboard. Also offers a REST/JSON **API** and an **MCP server** for AI agents (Claude, ChatGPT, Cursor) — ***paid***.
 
 ---
 
@@ -129,6 +139,8 @@ This collection includes GitHub repositories, commercial APIs, websites offering
 
 - **[statsbomb/open-data](https://github.com/statsbomb/open-data)** 
     StatsBomb open data for football analytics. ***!! Around 19 GB***
+- **[SkillCorner/opendata](https://github.com/SkillCorner/opendata)** 
+    Player tracking data for matches across 9 competitions in Europe's top 5 leagues.
 - **[schochastics/football-data](https://github.com/schochastics/football-data)** 
     contains results of ***1,237,935 football games in 207 top-tier*** domestic leagues and 20 international tournaments (UEFA EuroLeague/ChampionsLeague,etc.) from 1888-2023
 
@@ -193,6 +205,7 @@ Meta-collections — curated guides and link hubs that point to many other footb
 - **[datasets/football-datasets](https://github.com/datasets/football-datasets)** — Frictionless Data packaged football league datasets.
 - **[datahub.io – football collection](https://datahub.io/collections/football)** — DataHub's curated collection of football data packages.
 - **[GitHub topic: football-data](https://github.com/topics/football-data)** — Live, self-updating index of repositories tagged `football-data` on GitHub.
+- **[sayou/awesome-football-analytics](https://github.com/sayou/awesome-football-analytics)** — Curated list of football analytics resources: live/historic datasets, APIs, tracking data, and analysis tools.
 
 ---
 
@@ -354,11 +367,23 @@ Meta-collections — curated guides and link hubs that point to many other footb
 - **Goal.com**
     - <https://www.goal.com/en>
 
+- **Namra10**
+    - <https://www.namra10.com/>
+    - Multilingual football match service: fixtures, results, lineups, standings, head-to-head records, and reference pages for teams, players, stadiums, referees, and competitions.
+
 ---
 
 ### Websites with focus on statistic
 - **Understat**
     - <https://understat.com/>
+
+- **footballxG**
+    - <https://footballxg.com/>
+    - xG data, including for Mexican, Argentinian, and Brazilian leagues.
+
+- **FiveThirtyEight Global Club Soccer Rankings**
+    - <https://projects.fivethirtyeight.com/global-club-soccer-rankings/>
+    - How 600+ global clubs compare by FiveThirtyEight's Soccer Power Index.
 
 - **soccerwidow** 
   - <https://www.soccerwidow.com/>
@@ -430,6 +455,9 @@ Below are official or well-known resources for some of the top football leagues 
 ### Major League Soccer (MLS)
 - **Official Site**: [https://www.mlssoccer.com](https://www.mlssoccer.com)
 - **MLS Players Association**: [https://mlsplayers.org/](https://mlsplayers.org/)
+
+### Canadian Premier League (CPL)
+- **Centre Circle Data**: [https://canpl.ca/centre-circle-data/](https://canpl.ca/centre-circle-data/) — official match data on clubs and players.
 
 ---
 
