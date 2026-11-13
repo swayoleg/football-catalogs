@@ -486,6 +486,7 @@ Below are official or well-known resources for some of the top football leagues 
 - <https://www.openligadb.de/>
 - [colours-of-football.com](https://www.colours-of-football.com/) -  Graphics of football kits, both the clubs and the national teams. No fantasy kits here, only the real kits.
 - [historicalkits.co.uk](http://www.historicalkits.co.uk/) -  Historical Football Kits
+- [GoalPulse](https://goalpulse.io/) - AI football match predictions with calibrated probabilities and a public pre-match backtest record (94 matches, per-match Brier/calibration buckets, 8-language llms.txt).
 
 ---
 
