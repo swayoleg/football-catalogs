@@ -235,6 +235,9 @@ Meta-collections — curated guides and link hubs that point to many other footb
 - **[football-graphs](https://github.com/rodmoioliveira/football-graphs)**  
   [Grafos da Bola](https://grafos-da-bola.netlify.app/) – Interactive web app for soccer passing networks.
 
+- **[Football Outcome Explorer](https://gimlak-football-outcome-explorer.static.hf.space/)**
+  Open-source browser tool for comparing home-win, draw and away-win rates across 7,230 matches in five European leagues (2020/21-2023/24), with league/season filters, sample sizes, weighted summaries and CSV export.
+
 - **[yorobot](https://github.com/yorobot)**
   - **[football.db](https://github.com/yorobot/football.db)** DB builder in Ruby.
   - **[yorobot/football.json](https://github.com/yorobot/football.json)** football.json (Auto-Update) Scripts.
