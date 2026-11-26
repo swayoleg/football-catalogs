@@ -378,6 +378,10 @@ Meta-collections — curated guides and link hubs that point to many other footb
 ---
 
 ### Websites with focus on statistic
+- **Golcü**
+    - <https://golcu.app/>
+    - Turkish-language site with statistical-model match probabilities (1X2) and a public prediction history with a calibration table; also available through an MCP server.
+
 - **Understat**
     - <https://understat.com/>
 
